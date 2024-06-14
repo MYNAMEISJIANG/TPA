@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataTransformationsUserConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <AssessmentRuleSuppressionSetting />
+        <UseWinAuth>false</UseWinAuth>
+        <WinAuthUserName />
+        <WinAuthDomain />
+        <ServerName>vircorebatchjob</ServerName>
+        <PathOnServer>/SSISDB/TPA/TPA</PathOnServer>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>{37DEAB3B-420B-4531-9D1B-286BC40B957A}</Id>
+            <Name>{37DEAB3B-420B-4531-9D1B-286BC40B957A}</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAQbtZbfSEuUukJrPVjY82nAAAAABOAAAAewAzADcARABFAEEAQgAzAEIALQA0ADIAMABCAC0ANAA1ADMAMQAtADkARAAxAEIALQAyADgANgBCAEMANAAwAEIAOQA1ADcAQQB9AAAAA2YAAMAAAAAQAAAAbJ0A9E2cnSnYDjTncB2yewAAAAAEgAAAoAAAABAAAAAojZOjqVDh91ev+0RiV97YGAAAAO9FDlkH/lrHZxht9KWo4MLzg3uhB9l1shQAAAAd3LPJ3Slv3aA2U6NwwvssG/PI/w==</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>{37DEAB3B-420B-4531-9D1B-286BC40B957A}</Id>
+            <Name>{37DEAB3B-420B-4531-9D1B-286BC40B957A}</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAQbtZbfSEuUukJrPVjY82nAAAAABOAAAAewAzADcARABFAEEAQgAzAEIALQA0ADIAMABCAC0ANAA1ADMAMQAtADkARAAxAEIALQAyADgANgBCAEMANAAwAEIAOQA1ADcAQQB9AAAAA2YAAMAAAAAQAAAATgAfo0HzB27gldTVyAuncwAAAAAEgAAAoAAAABAAAABYbon5QPXtlZedpX+WxZJaEAAAAEzTEZi3HDnBXLUCD061ThAUAAAAGiXHVNepqNStwSCcDNVOLsFogOo=</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <OfflineMode>false</OfflineMode>
+        <ProgressReporting>true</ProgressReporting>
+        <ParameterConfigurationSensitiveValues>
+          <ConfigurationSetting>
+            <Id>LastModifiedTime</Id>
+            <Name>LastModifiedTime</Name>
+            <Value xsi:type="xsd:dateTime">2022-12-20T09:01:01.5949459Z</Value>
+          </ConfigurationSetting>
+        </ParameterConfigurationSensitiveValues>
+      </Options>
+    </Configuration>
+  </Configurations>
+</DataTransformationsUserConfiguration>
